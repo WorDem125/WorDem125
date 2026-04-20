@@ -1,16 +1,40 @@
-## Hi there 👋
+# Dmitry Veselov
 
-<!--
-**WorDem125/WorDem125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer / Backend Developer  
+Vladivostok, Russia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I build data pipelines, backend services, and machine learning systems with a focus on real-world applications and production-ready solutions.
+
+My work combines data processing, API development, and applied machine learning.
+
+---
+
+## Tech Stack
+
+Python, SQL  
+FastAPI, Flask  
+PostgreSQL, SQLite  
+Pandas, Scikit-learn  
+Docker, Git, Linux
+
+---
+
+## Projects
+
+### Document Parser Service
+FastAPI + Celery service for extracting structured data from documents.  
+Includes asynchronous processing, queue management, and JSON output.
+
+### Transaction Risk System
+Machine learning system for transaction classification and anomaly detection.  
+Includes model training, API integration, and dashboard visualization.
+
+---
+
+## Goals
+
+To grow as a Data Engineer and build scalable, production-level data systems.

@@ -7,9 +7,9 @@ Vladivostok, Russia
 
 ## About
 
-I build data pipelines, backend services, and machine learning systems with a focus on real-world and production-ready solutions.
+I develop data pipelines, backend services, and machine learning systems with a focus on real-world, production-ready solutions.
 
-My work combines data processing, API development, and applied machine learning.
+My work is centered around data processing, API development, and applied machine learning.
 
 ---
 
@@ -19,7 +19,7 @@ Python, SQL
 FastAPI, Flask  
 PostgreSQL, SQLite  
 Pandas, Scikit-learn  
-Docker, Git, Linux
+Docker, Git, Linux  
 
 ---
 
@@ -28,15 +28,16 @@ Docker, Git, Linux
 ### Document Parser Service
 https://github.com/WorDem125/document-parser-service
 
-FastAPI + Celery service for extracting structured data from documents.  
-Includes asynchronous processing, queue management, and JSON output.
+Service for extracting structured data from documents using FastAPI and Celery.  
+Implements asynchronous processing, task queue management, and JSON-based output.
 
 ---
 
-### Transaction Risk System
+### Route Risk Analyzer
+https://github.com/WorDem125/route-risk-analyzer
 
-Machine learning system for transaction classification and anomaly detection.  
-Includes model training, API integration, and dashboard visualization.
+Machine learning system for analyzing routes and predicting risk levels based on input data.  
+Includes data processing, model inference, and backend integration.
 
 ---
 
